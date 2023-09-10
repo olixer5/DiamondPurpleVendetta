@@ -15,6 +15,12 @@
 													    "#150621"],
 														"TEXT_MUTED" : [
 															"#5e1799"
+														],
+														"INTERACTIVE_NORMAL": [
+															"#9994"
+														],
+														"INTERACTIVE_ACTIVE":[
+															"#1297"
 														]
 				
 
