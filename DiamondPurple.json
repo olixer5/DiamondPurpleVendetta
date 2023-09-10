@@ -7,13 +7,17 @@
 					      "id": "748901470190960681"
 						      }
 							    ],
-								  "semanticColors": {
+								"semanticColors": {
 									"CHAT_BACKGROUND": [
-										    "5e1799",
+										    "#150621",
 											    "#150621",
 												    "#dbb0ff",
 													    "#ebf7f7"
-														]
+												]
+											
+
+										
+										
 									
 								  },
 								    "rawColors": ["PRIMARY_600"],
