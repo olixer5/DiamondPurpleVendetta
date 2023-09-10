@@ -17,10 +17,10 @@
 															"#5e1799"
 														],
 														"INTERACTIVE_NORMAL" : [
-															"#9994"
+															"#999"
 														],
 														"INTERACTIVE_ACTIVE" : [ 
-															"#536478"
+															"#fffffff"
 														],
 														"BACKGROUND_PRIMARY" : [
 															"#829"
