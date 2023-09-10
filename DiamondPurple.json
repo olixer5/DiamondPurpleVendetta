@@ -20,10 +20,10 @@
 															"#9994"
 														],
 														"INTERACTIVE_ACTIVE" : [ 
-															"#1297"
+															"#4828"
 														],
 														"BACKGROUND_PRIMARY" : [
-															"#8219"
+															"#829"
 														],
 											
 														"BACKGROUND_TERTIARY" : [ 
@@ -40,6 +40,9 @@
 														],
 														"CHANNEL_ICON":[
 														"#4e9"
+														],
+														"CHANNEL_NAME" :[
+															"#199075"
 														]
 													
 				
