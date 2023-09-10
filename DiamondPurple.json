@@ -29,8 +29,11 @@
 														"BACKGROUND_TERTIARY" : [ 
 															"#7387"
 														],
-														"CHANNEL_TEXT_ARE_PLACEHOLDER" : [
+														"CHANNEL_TEXT_AREA_PLACEHOLDER" : [
 															"#7498"
+														],
+														"BACKROUND_SECONDARY_ALT" :[
+															"#8394"
 														]
 													
 				
