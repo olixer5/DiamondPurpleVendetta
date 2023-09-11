@@ -60,8 +60,10 @@
 										
 									
 								  },
-								    "rawColors": ["PRIMARY_600" ],
-									  "spec": 2
+								    "rawColors": {"PRIMARY_600": "#3e3",
+								               "PRIMARY_100": "#3a9",
+											"PRIMARY_400":"#7E3999" },
+								"spec": 2
 
 								
 															  
