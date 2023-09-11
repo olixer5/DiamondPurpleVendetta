@@ -65,9 +65,21 @@
 											"PRIMARY_400":"#7E3999",
 										"PRIMARY_660":"#729",
 									"PRIMARY_360":"#032999",
-								"PRIMARY_300":"#114899" },
-								"spec": 2
+								"PRIMARY_300":"#114899" 
+										},	"spec": 2
+							
+				
+								
+								},
+								"background":{
+									"blur":0.3,
+						"url": "https://media.discordapp.net/attachments/1150357628313149480/1150403438539194398/qCy5mFWd.png",
+						"alpha":0.2
+								}, 
+
+							}
+
+
 
 								
 															  
-}
