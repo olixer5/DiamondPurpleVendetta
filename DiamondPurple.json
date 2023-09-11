@@ -17,23 +17,23 @@
 															"#5e1799"
 														],
 														"INTERACTIVE_NORMAL" : [
-															"#999"
+															"#9ed9"
 														],
 														"INTERACTIVE_ACTIVE" : [ 
-															"#ffffff"
+															"#f381ff"
 														],
 														"BACKGROUND_PRIMARY" : [
 															"#829"
 														],
 											
 														"BACKGROUND_TERTIARY" : [ 
-															"#7387"
+															"#3e9"
 														],
 														"CHANNEL_TEXT_AREA_PLACEHOLDER" : [
 															"#7498"
 														],
 														"BACKROUND_SECONDARY_ALT" :[
-															"#8394"
+															"#8e2"
 														],
 														"BACKGROUND_MOBILE_SECONDARY":[
 															"#5e129399"
@@ -43,6 +43,12 @@
 														],
 														"CHANNEL_NAME" :[
 															"#199075"
+														],
+														"BACKGROUND_MOBILE_PRIMARY":[
+															"#5E1294"
+														],
+														"BACKGROUND_ACCENT" :[
+															"#19E5E3"
 														]
 													
 				
