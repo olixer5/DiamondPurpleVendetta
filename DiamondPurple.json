@@ -62,7 +62,9 @@
 								  },
 								    "rawColors": {"PRIMARY_600": "#7499",
 								               "PRIMARY_100": "#83a9",
-											"PRIMARY_400":"#7E3999" },
+											"PRIMARY_400":"#7E3999",
+										"PRIMARY_660":"#729",
+									"primary_360":"#032999" },
 								"spec": 2
 
 								
