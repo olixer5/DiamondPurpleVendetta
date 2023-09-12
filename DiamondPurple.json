@@ -11,47 +11,89 @@
 									"CHAT_BACKGROUND": [
 										    "#150621",
 											    "#150621",
-												    "#dbb0ff",
+												    "#160721",
 													    "#150621"],
 														"TEXT_MUTED" : [
-															"#5e1799"
+															"#5e1799",
+															"#5e1799",
+															"#5e1799",
+															"#5e1888"
+													
 														],
 														"INTERACTIVE_NORMAL" : [
-															"#9ed9"
+															"#9ed9",
+															"#9ed9",
+															"#9ed9",
+															"#9ed"
 														],
 														"INTERACTIVE_ACTIVE" : [ 
-															"#f381ff"
+															"#f381ff",
+															"#f381ff",
+															"#7f38",
+															"#1938"
 														],
 														"BACKGROUND_PRIMARY" : [
-															"#829"
+															"#829",
+															"#829",
+															"#828",
+															"#827"
+
 														],
 											
 														"BACKGROUND_TERTIARY" : [ 
-															"#93e9"
+															"#93e9",
+															"#93e8",
+															"#93e7",
+															"#9398"
 														],
 														"CHANNEL_TEXT_AREA_PLACEHOLDER" : [
-															"#7498"
+															"#7498",
+															"#7499",
+															"#7479",
+															"#737"
 														],
 														"BACKROUND_SECONDARY_ALT" :[
-															"#8e2"
+															"#8e2",
+															"#8e18",
+															"#8e21",
+															"#8e1"
+
 														],
 														"BACKGROUND_MOBILE_SECONDARY":[
-															"#5e129399"
+															"#5e129399",
+															"#5e1299",
+															"#5e199999",
+															"#6e1299"
 														],
 														"CHANNEL_ICON":[
-														"#4e9"
+														"#4e9",
+													"#3e9",
+														"#5e99",
+														"#1e9"
 														],
 														"CHANNEL_NAME" :[
-															"#199075"
+															"#199075",
+															"#199079",
+															"#199079",
+															"#187068"
 														],
 														"BACKGROUND_MOBILE_PRIMARY":[
-															"#5E1294"
+															"#5E1294",
+														"#5e1293"	,
+														"#5e1391"	,
+															"#5e1591"
 														],
 														"BACKGROUND_ACCENT" :[
-															"#591299"
+															"#591299",
+														"#591299"	,
+														"#591199"	,
+															"#691299"
 														],
 														"TEXT_NORMAL":[
-														 "#F00"
+														 "#F00",
+														 "#f00",
+														"#" ,
+														 "#f00000"
 														]
 													
 				
@@ -69,9 +111,9 @@
 									"spec":2,
 							 
 									"background":{
-									"blur":0.3,
+									"blur":0.7,
 						"url": "https://media.discordapp.net/attachments/1122544382508269629/1151026971237683241/UlnuOqs8.gif",
-						"alpha":0.2
+						"alpha":0.3
 							}
 						}
 
