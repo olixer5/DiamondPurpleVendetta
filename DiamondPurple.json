@@ -115,7 +115,8 @@
 										
 									
 								  },
-								    "rawColors": {"PRIMARY_600": "#7499",
+								    "rawColors": {
+										"PRIMARY_600": "#7499",
 								               "PRIMARY_100": "#83a9",
 											"PRIMARY_400":"#7E3999",
 										"PRIMARY_660":"#729",
@@ -129,7 +130,7 @@
 									"background":{
 									"blur":1.11,
 						"url": "https://media.discordapp.net/attachments/1122544382508269629/1151026971237683241/UlnuOqs8.gif",
-						"alpha":0.38
+						"alpha":0.0100
 							}
 						}
 
