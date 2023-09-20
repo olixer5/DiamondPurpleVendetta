@@ -106,7 +106,20 @@
 														"#281959"	,
 														"#272999"	,
 															"#129"
-														]
+														],
+														    "TEXT_LINK_LOW_SATURATION": [
+																 "#2eb6ff",
+																   "#006be7",
+															 "#2eb6ff"
+															],
+														 "TEXT_WARNING": [  "#f0b232",
+      "#9a650d",
+      "#f0b232"
+    ],
+            "TEXTBOX_MARKDOWN_SYNTAX": [
+      "#949ba4",
+      "#41434a",
+      "#949ba4"]
 													
 													
 				
