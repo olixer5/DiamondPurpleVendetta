@@ -90,16 +90,16 @@
 															"#691299"
 														],
 														"TEXT_NORMAL":[
-														 "#F0f039",
+														 "#F0fff039",
 														 "#ffff",
-														"#5faa00" ,
-														 "#faaa00"
+														"#ffaa00" ,
+														 "#ffff00"
 														],
 														"TEXT_DANGER":[
-														 "#602770",
-													"#403990",
-														"#3489" ,
-														 "#f01992"
+														 "#fff",
+													"#4ffff0",
+														"#3fff89" ,
+														 "#f01ff992"
 														],
 														"TEXT_LINK":[
 															"#281999",
@@ -239,9 +239,10 @@
 																																																												   "ORANGE_830": "#261005", 
 																																																												      "ORANGE_860": "#200e05", 
 																																																													     "ORANGE_900": "#190d04", 
-																																																														    "PARTNER": "#4087ed", 
-																																																															   "PAYPAL": "#13216b", 
-																																																															      "PLAYSTATION": "#032f87",  "RED_100": "#fef8f9", 
+																																																														    "PARTNER": "#409", 
+																																																															   "PAYPAL": "#999999", 
+																																																															      "PLAYSTATION": "#5f99", 
+																																																																   "RED_100": "#fef8f9", 
 																																																																     "RED_130": "#fef4f4", 
 																																																																	    "RED_160": "#feeaea", 
 																																																																		   "RED_200": "#fdddde", 
@@ -267,7 +268,7 @@
 																																																																																	   "RED_830": "#2e090a", 
 																																																																																	      "RED_860": "#280808", 
 																																																																																		     "RED_900": "#220606", 
-																																																																																			    "REDDIT": "#ff4500",  "WHITE_100": "#ffffff", 
+																																																																																			    "REDDIT": "#760",  "WHITE_100": "#ffffff", 
 																																																																																				   "WHITE_130": "#ffffff", 
 																																																																																				      "WHITE_160": "#ffffff", 
 																																																																																					     "WHITE_200": "#ffffff", 
@@ -293,7 +294,7 @@
 																																																																																																				     "WHITE_830": "#3b3b3b", 
 																																																																																																					    "WHITE_860": "#262626", 
 																																																																																																						   "WHITE_900": "#0d0d0d", 
-																																																																																																						      "XBOX": "#107c10", 
+																																																																																																						      "XBOX": "#f29990", 
 																																																																																																							     "YELLOW_100": "#fff8ef", 
 																																																																																																								    "YELLOW_130": "#fff4e8", 
 																																																																																																									   "YELLOW_160": "#ffebd3", 
